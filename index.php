@@ -17,7 +17,7 @@
     <a href = "1P_AI9.php">1P_AI9 BD, CRUD </a> <br><br>
     <a href = "1P_AI10.php">1P_AI10. Estructura y HTTP</a> <br><br>
     <a href = "1P_AI11/index.php">1P_AI11. Calculadora</a> <br><br>
-    <a href = "Practica1Examen.php">Examen</a> <br><br>
+    <a href = "Practica1Examen.php">Examen   </a> <br><br>
 
 </body>
 </html>
